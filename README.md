@@ -35,4 +35,5 @@ conda activate pbe_aug
 python pbe_aug.py 
 ```
 
-#본 연구는 기술품질연구원의 지원을 받아 제작되었습니다
+
+# 기술품질연구원
